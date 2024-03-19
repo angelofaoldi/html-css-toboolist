@@ -27,13 +27,13 @@ img {
 
 /* FINE LOGO */
 /* INIZIO MAIN */
+
 /* DIV SFONDO WHITESMOKE */
 
 .container2 {
-    height: 1400px;
+    height: 800px;
     background-color: whitesmoke;
     margin-top: 5px;
-    
 }
 
 /* DIV CONTENUTO CENTRALE LISTA */
@@ -47,6 +47,22 @@ img {
     padding-bottom: 1%;
     margin-left: 20%;
     padding-left: 3%;
+}
+
+#butt1 {
+    color: white;
+    background-color: lightskyblue;
+    padding: 1%;
+    border: 1px solid rgb(135, 206, 250, 0.5);
+    border-radius: 5px;
+}
+
+#butt2 {
+    color: lightgray;
+    background-color: white;
+    padding: 1%;
+    border: 1px solid rgba(204, 204, 204, 0.5);
+    border-radius: 5px;
 }
 
 .container4 {
@@ -70,6 +86,8 @@ li {
     margin-bottom: 5%;
 }
 
+/* COLORI DELLE MANSIONI LISTA */
+
 .editorial {
     background-color: lightskyblue;
     padding: 10px;
@@ -77,35 +95,35 @@ li {
     color: white;
 }
 
-.editorial2 {
+.q1goals {
     background-color: rgb(214, 67, 233);
     padding: 10px;
     border-radius: 15px;
     color: white;
 }
 
-.editorial3 {
+.recruiting {
     background-color: rgb(109, 207, 144);
     padding: 10px;
     border-radius: 15px;
     color: white;
 }
 
-.editorial4 {
+.mobile {
     background-color: orange;
     padding: 10px;
     border-radius: 15px;
     color: white;
 }
 
-.editorial5 {
+.website {
     background-color: rgb(218, 94, 160);
     padding: 10px;
     border-radius: 15px;
     color: white;
 }
 
-.editorial6 {
+.sales {
     background-color: limegreen;
     padding: 10px;
     border-radius: 15px;
