@@ -43,8 +43,20 @@ img {
     height: auto;
     background-color: white;
     border-top: 40px solid whitesmoke;
-    padding-top: 20%;
+    padding-top: 1%;
+    padding-bottom: 1%;
     margin-left: 20%;
-    
+    padding-left: 3%;
+}
+
+.container4 {
+    width: 800px;
+    height: auto;
+    background-color: white;
+    border-top: 4px solid whitesmoke;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-left: 20%;
+    padding-left: 3%;
 }
 
