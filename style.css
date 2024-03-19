@@ -66,8 +66,33 @@ img {
     list-style-type: none;
 }
 
+li {
+    margin-bottom: 5%;
+}
+
 .editorial {
     background-color: lightskyblue;
+    padding: 10px;
+    border-radius: 15px;
+    color: white;
+}
+
+.editorial2 {
+    background-color: rgb(214, 67, 233);
+    padding: 10px;
+    border-radius: 15px;
+    color: white;
+}
+
+.editorial3 {
+    background-color: rgb(109, 207, 144);
+    padding: 10px;
+    border-radius: 15px;
+    color: white;
+}
+
+.editorial4 {
+    background-color: orange;
     padding: 10px;
     border-radius: 15px;
     color: white;
