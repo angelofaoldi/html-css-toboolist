@@ -55,7 +55,7 @@ img {
 #butt1 {
     color: white;
     background-color: lightskyblue;
-    padding: 1%;
+    padding: 1% 2%;
     border: 1px solid rgb(135, 206, 250, 0.5);
     border-radius: 5px;
 }
@@ -63,7 +63,7 @@ img {
 #butt2 {
     color: lightgray;
     background-color: white;
-    padding: 1%;
+    padding: 1% 2%;
     border: 1px solid rgba(204, 204, 204, 0.5);
     border-radius: 5px;
 }
@@ -89,7 +89,7 @@ img {
     font-style: Poppins, Garamond;
     font-weight: bold;
     display: inline;
-    font-size:larger;
+    font-size:x-large;
 }
 
 ul {
@@ -99,49 +99,49 @@ ul {
 li {
     margin: 3% 0;
     font-family: Poppins, Garamond;
-    font-size: small;
+    font-size: medium;
 }
 
 /* COLORI DELLE MANSIONI LISTA */
 
 .editorial {
     background-color: lightskyblue;
-    padding: 1%;
+    padding: 1% 2%;
     border-radius: 15px;
     color: white;
 }
 
 .q1goals {
     background-color: rgb(214, 67, 233);
-    padding: 1%;
+    padding: 1% 2%;
     border-radius: 15px;
     color: white;
 }
 
 .recruiting {
     background-color: rgb(109, 207, 144);
-    padding: 1%;
+    padding: 1% 2%;
     border-radius: 15px;
     color: white;
 }
 
 .mobile {
     background-color: orange;
-    padding: 1%;
+    padding: 1% 2%;
     border-radius: 15px;
     color: white;
 }
 
 .website {
     background-color: rgb(218, 94, 160);
-    padding: 1%;
+    padding: 1% 2%;
     border-radius: 15px;
     color: white;
 }
 
 .sales {
     background-color: limegreen;
-    padding: 1%;
+    padding: 1% 2%;
     border-radius: 15px;
     color: white;
 }
