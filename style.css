@@ -60,3 +60,15 @@ img {
     padding-left: 3%;
 }
 
+/* INIZIO LISTA */
+
+.list {
+    list-style-type: none;
+}
+
+.editorial {
+    background-color: lightskyblue;
+    padding: 10px;
+    border-radius: 15px;
+    color: white;
+}
