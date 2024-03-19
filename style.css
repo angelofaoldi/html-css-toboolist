@@ -62,7 +62,7 @@ img {
 
 /* INIZIO LISTA */
 
-.list {
+.container4 ul {
     list-style-type: none;
 }
 
@@ -93,6 +93,20 @@ li {
 
 .editorial4 {
     background-color: orange;
+    padding: 10px;
+    border-radius: 15px;
+    color: white;
+}
+
+.editorial5 {
+    background-color: rgb(218, 94, 160);
+    padding: 10px;
+    border-radius: 15px;
+    color: white;
+}
+
+.editorial6 {
+    background-color: limegreen;
     padding: 10px;
     border-radius: 15px;
     color: white;
