@@ -21,8 +21,11 @@ img {
 }
 
 .logotext {
-    font-size: 30px;
+    font-size: 40px;
     vertical-align: middle;
+    font-weight: bold;
+    line-height: 1.5;
+    font-family: Poppins, Garamond;
 }
 
 /* FINE LOGO */
